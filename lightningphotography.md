@@ -82,6 +82,11 @@ Not much activity recently apart from in mid wales. A couple of strikes in Engla
 
 ![WhatsApp Image 2024-05-12 at 14 41 17_a03e30e3](https://github.com/swift109/swift109.github.io/assets/169585362/beaff22b-36a9-4cf2-9470-8e244da9ecab)
 
+## 16:19 
+![image](https://github.com/swift109/swift109.github.io/assets/169585362/fb0fdbe4-cce9-4c56-aa71-c447b94c4bd8)
+
+Lots of lightning where the red area and yellow areas were predicted. 
+
 
 
 
