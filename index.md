@@ -2,4 +2,6 @@ Welcome to my site, which covers various topics on photography, computing (Windo
 
 # Blog
 
-[I'm an inline-style link](https://www.google.com)
+[Lightning Photography Tips - Forecasting Lightning](https://swift109.github.io/lightningphotography)
+12-05-2024
+
