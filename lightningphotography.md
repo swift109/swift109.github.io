@@ -35,3 +35,24 @@ The next step is to wait. Use multiple forecasting services to find an earliest-
 
 ## Step 4 - Lightningmaps
 Once lightning has come within 50 miles of your location, you can start tracking it's location. I would recommend [Lightningmaps](lightningmaps.org) and My Lightning tracker & alerts [App store](https://apps.apple.com/us/app/my-lightning-tracker-alerts/id1175031987) and [Play Store](https://play.google.com/store/apps/details?id=com.jrustonapps.mylightningtracker&hl=en_GB&gl=US&pli=1). The app can be set to give you a notification when lightning is detected in whatever radius you choose. For me this is 30 miles, as if the lightning is travelling in the right direction, it should reach you from a 30 miles distance. 
+- Another tip is to turn on volume on lightningmaps, and whilst you do something else on your PC if lightning maps is open in another tab it will make a ticking sound every time a lightning strike occurs in the zoomed in area.
+
+
+## Reports
+This section is to cover reports of the lightning strikes today, 12-05-2024. This is to test this method and the accuracy of the different services I am using. 
+
+### 12:42
+![image](https://github.com/swift109/swift109.github.io/assets/169585362/8f8943d4-a597-4f41-8275-fa9f6c53d049)
+
+In the past few minutes lightning strikes have begun. These are constant and clearly reflect a section of the weather warning issued by Metoffice, however the X post (see above) did not highlight this area in Northern Ireland and Ireland as red for risk of lightning.
+
+### 13:25
+![image](https://github.com/swift109/swift109.github.io/assets/169585362/d38d8450-097f-4670-8517-51a114cfbf8f)
+
+The lightning strikes are starting to cover Northern Ireland, and approaching mainland likely hitting Wales first.
+I have noticed an increase in wind and haziness, and darker (but still not black) cloud coverage in the sky. 
+The air pressure is also lowering, but still not dramatically low.
+
+<img src="https://github.com/swift109/swift109.github.io/assets/169585362/b2675749-d43c-4f3d-a45a-8489c9dab2ee" width="400">
+
+
