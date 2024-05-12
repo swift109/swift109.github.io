@@ -55,4 +55,8 @@ The air pressure is also lowering, but still not dramatically low.
 
 <img src="https://github.com/swift109/swift109.github.io/assets/169585362/b2675749-d43c-4f3d-a45a-8489c9dab2ee" width="400">
 
+### 13:35
+<img src="https://github.com/swift109/swift109.github.io/assets/169585362/63d7bbce-90f5-492d-890c-cf2a23f4e43c" width="600">
+
+It has only been 10 minutes since the last updates, and now the lightning has travelled into Ireland, and the Irish sea approaching Wales (see circled strike). In the tweet from UK thunderstorm updates, you can see the part of Ireland the lightning is currently striking in _was_ highlighted yellow. 
 
