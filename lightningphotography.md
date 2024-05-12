@@ -60,3 +60,28 @@ The air pressure is also lowering, but still not dramatically low.
 
 It has only been 10 minutes since the last updates, and now the lightning has travelled into Ireland, and the Irish sea approaching Wales (see circled strike). In the tweet from UK thunderstorm updates, you can see the part of Ireland the lightning is currently striking in _was_ highlighted yellow. 
 
+## 13:40 
+![image](https://github.com/swift109/swift109.github.io/assets/169585362/410f7c11-625b-404d-be26-49f5b62a1a93)
+
+Even less time from the last update, and the strikes have hit Wales. They have arrived at mainland.
+
+## 14:02
+![image](https://github.com/swift109/swift109.github.io/assets/169585362/0e77ac81-e29b-4f98-aaa4-e5ec408d817c)
+
+More strikes in Wales, and a strike off coast of Bristol.
+
+## 14:28
+![image](https://github.com/swift109/swift109.github.io/assets/169585362/51e05266-32be-4f26-9be9-944cc43dbdae)
+
+Currently in Wales the only location where the lightning is consistent is in the mid-south, with the odd northern strike.. Nothing in England / Scotland yet, and still the odd strike in Ireland. When the lightning becomes consistent in my area, I will start up the camera.
+
+## 14:45
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A thunderstorm has developed to the north of Llandovery in Wales.<br><br>Lightning map: <a href="https://t.co/2mVeuGfKlg">https://t.co/2mVeuGfKlg</a><br>Radar: <a href="https://t.co/8jXcp3Caiz">https://t.co/8jXcp3Caiz</a> <a href="https://t.co/CnTpFaBCDC">pic.twitter.com/CnTpFaBCDC</a></p>&mdash; UK Thunderstorm Updates (@UKStormUpdates) <a href="https://twitter.com/UKStormUpdates/status/1789637933537841624?ref_src=twsrc%5Etfw">May 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Not much activity recently apart from in mid wales. A couple of strikes in England - Bristol and a few just over the border in the red zone. The above tweet shows how UK Thunderstorm Updates gives these updates whilst the thunderstorms occur.
+
+![WhatsApp Image 2024-05-12 at 14 41 17_a03e30e3](https://github.com/swift109/swift109.github.io/assets/169585362/beaff22b-36a9-4cf2-9470-8e244da9ecab)
+
+
+
+
